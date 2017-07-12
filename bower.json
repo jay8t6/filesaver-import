@@ -1,27 +1,23 @@
 {
-  "name": "import-filesaver",
+  "name": "filesaver-import",
   "version": "1.0.0",
   "authors": [
     "Jalal Fathi <jfathi.mail@gmail.com> (http://jalal.io)"
   ],
   "description": "The import element of the filesaverjs library.",
   "keywords": [
-    "web-component",
-    "web-components",
-    "polymer",
     "filesaverjs",
     "import"
   ],
-  "main": "import-filesaver.html",
+  "main": "filesaver-import.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/JaySunSyn/import-filesaver.git",
+  "homepage": "https://github.com/jay8t6/filesaver-import.git",
   "ignore": [
     "/.*",
     "/test/",
     "/demo/"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.0.0",
     "FileSaver.js": "eligrey/FileSaver.js"
   },
   "devDependencies": {}
